@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Business Intelligence
 
 [Project 1 Exploratory Data Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
